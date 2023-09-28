@@ -2,7 +2,7 @@
 
 # Concept'Web
 
-Une agence Web spécialisé dans la conception de sites web et de référencement SEO. Parfait pour **réaliser votre projet sur Internet avec succès**.
+Une agence Web spécialisée dans la conception de sites web et de référencement SEO. Parfait pour **réaliser votre projet sur Internet avec succès**.
 
 ## La stack utilisée en règle générale
 
